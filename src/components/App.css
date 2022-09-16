@@ -1,0 +1,15 @@
+.App {
+  font-size:"12px";
+  background: url(../assets/gdfgtryhfgh54.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+}
+
+.footer {
+  font-family: 'Roboto' !important 
+}
