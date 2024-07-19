@@ -1,33 +1,22 @@
-import { useEffect } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import About from '../pages/about/About';
-import Art from '../pages/art/Art';
-import Contact from '../pages/contact/Contact';
-import Main from './main/Main';
+import { Flex } from '@chakra-ui/react'
+import Main from '../containers/main/Main'
 import Footer from './footer/Footer';
 import Header from './header/Header';
 import './App.css'
 
 const App = () => {
-  useEffect(() => {
-  });
-
   return (
-    <div className="App container">
+    <Flex direction="column">
       <BrowserRouter>
-        <Header/>
-        <Main>
-          <Routes>
-            <Route path="/" element={<About />}/>
-            <Route path="/about" element={<About />}/>
-            <Route path="/art" element={<Art />} />
-            <Route path="/contact" element={<Contact />} />
-          </Routes>
-        </Main>
-        <Footer/>
+        <Header />
+        <Routes>
+          <Route path="*" element={<Main />} />
+        </Routes>
+        <Footer />
       </BrowserRouter>
-    </div>
+    </Flex>
   );
-}
+};
 
 export default App

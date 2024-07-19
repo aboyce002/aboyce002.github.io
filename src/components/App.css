@@ -1,15 +1,16 @@
 .App {
-  font-size:"12px";
-  background: url(../assets/gdfgtryhfgh54.png) no-repeat center center fixed;
+  /*background: url(../assets/gdfgtryhfgh54.png) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
-  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-  sans-serif;
 }
 
 .footer {
-  font-family: 'Roboto' !important 
+  font-family: 'Overpass', 'Segoe UI', 'Roboto', 'Oxygen';
+  font-weight: 350 !important;
+}
+
+.logo {
+  text-decoration: none !important;
 }
