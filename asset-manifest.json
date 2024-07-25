@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba725dbf.css",
-    "main.js": "/static/js/main.b6b3355e.js",
-    "static/media/gdfgtryhfgh54.png": "/static/media/gdfgtryhfgh54.f7678fd94d6bdc94290b.png",
-    "static/media/ecqwteasvterdt2.png": "/static/media/ecqwteasvterdt2.52db5c20c8f833521f1c.png",
-    "static/media/hjtydutyughj323f3.png": "/static/media/hjtydutyughj323f3.356d7f4256933fd72bdb.png",
-    "static/media/gdfgtryhfgh2m.png": "/static/media/gdfgtryhfgh2m.9e0f4ed95b5a133d331d.png",
-    "static/media/jygjgyjugyj5.png": "/static/media/jygjgyjugyj5.cd8849f05d42a5e1b0ef.png",
-    "static/media/kljhlkjhjklh32.png": "/static/media/kljhlkjhjklh32.93f139dc3c2bd9d2dfc9.png",
-    "static/media/grygrty2.png": "/static/media/grygrty2.0cdeeaf26900d01d30b8.png",
+    "main.css": "/static/css/main.00dd88ea.css",
+    "main.js": "/static/js/main.0bc9f4f5.js",
+    "static/media/websitestore.png": "/static/media/websitestore.80698fbfa974cb3072d8.png",
+    "static/media/undraw_working_late_re_0c3y.svg": "/static/media/undraw_working_late_re_0c3y.68ac0f155efee3e6d88cdef246f78c64.svg",
+    "static/media/Aubrey Boyce Resume.pdf": "/static/media/Aubrey Boyce Resume.3202647520446cff6efc.pdf",
+    "static/media/undraw_personal_website_re_c8dv.svg": "/static/media/undraw_personal_website_re_c8dv.2db8ef4a7f9295532dadbe484b75826f.svg",
+    "static/media/undraw_designer_life_re_6ywf.svg": "/static/media/undraw_designer_life_re_6ywf.65cfcc3023f6242a1f4c15d0388d129f.svg",
+    "static/media/undraw_newsletter_re_wrob.svg": "/static/media/undraw_newsletter_re_wrob.54475598f9ede498b7237ef0bb2f9ba3.svg",
     "index.html": "/index.html",
-    "main.ba725dbf.css.map": "/static/css/main.ba725dbf.css.map",
-    "main.b6b3355e.js.map": "/static/js/main.b6b3355e.js.map"
+    "main.00dd88ea.css.map": "/static/css/main.00dd88ea.css.map",
+    "main.0bc9f4f5.js.map": "/static/js/main.0bc9f4f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba725dbf.css",
-    "static/js/main.b6b3355e.js"
+    "static/css/main.00dd88ea.css",
+    "static/js/main.0bc9f4f5.js"
   ]
 }
