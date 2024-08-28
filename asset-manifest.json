@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.00dd88ea.css",
-    "main.js": "/static/js/main.0bc9f4f5.js",
+    "main.js": "/static/js/main.f205af87.js",
     "static/media/websitestore.png": "/static/media/websitestore.80698fbfa974cb3072d8.png",
     "static/media/undraw_working_late_re_0c3y.svg": "/static/media/undraw_working_late_re_0c3y.68ac0f155efee3e6d88cdef246f78c64.svg",
     "static/media/Aubrey Boyce Resume.pdf": "/static/media/Aubrey Boyce Resume.3202647520446cff6efc.pdf",
@@ -10,10 +10,10 @@
     "static/media/undraw_newsletter_re_wrob.svg": "/static/media/undraw_newsletter_re_wrob.54475598f9ede498b7237ef0bb2f9ba3.svg",
     "index.html": "/index.html",
     "main.00dd88ea.css.map": "/static/css/main.00dd88ea.css.map",
-    "main.0bc9f4f5.js.map": "/static/js/main.0bc9f4f5.js.map"
+    "main.f205af87.js.map": "/static/js/main.f205af87.js.map"
   },
   "entrypoints": [
     "static/css/main.00dd88ea.css",
-    "static/js/main.0bc9f4f5.js"
+    "static/js/main.f205af87.js"
   ]
 }
