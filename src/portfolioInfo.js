@@ -52,7 +52,11 @@ const skills = {
           skillTitle: "Typescript",
           text: "Typescript Logo",
         },
-
+        {
+          image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg",
+          skillTitle: "Playwright",
+          text: "Playwright Logo",
+        },
       ],
     },
     {
@@ -128,6 +132,11 @@ const skills = {
     {
       title: "Other",
       skillList: [
+        {
+          image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
+          skillTitle: "WordPress",
+          text: "WordPress Logo",
+        },
         {
           image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
           skillTitle: "Docker",
