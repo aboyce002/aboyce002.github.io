@@ -1,4 +1,4 @@
-import { Box, Link, Flex, Heading, Image, Center } from '@chakra-ui/react';
+import { Box, Link, Flex, Heading, Image } from '@chakra-ui/react';
 import { Fade } from "react-reveal";
 
 const Contact = () => {

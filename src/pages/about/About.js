@@ -1,4 +1,4 @@
-import { Heading, Image, Stack, Flex, VStack, Spacer } from '@chakra-ui/react';
+import { Heading, Image, Stack, Flex, VStack } from '@chakra-ui/react';
 
 const About = () => {
   return (
